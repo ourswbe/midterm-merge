@@ -7,3 +7,4 @@
 2nd commit in release
 1st commit in feature2
 2nd commit in feature2
+1st commit in release2
