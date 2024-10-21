@@ -5,3 +5,4 @@
 3rd commit in feature
 1st commit in release
 2nd commit in release
+3rd commit in release
